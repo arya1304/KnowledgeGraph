@@ -1,0 +1,33 @@
+Introduction to Knowledge Graphs
+
+Graph 
+- Mathematical struction
+- represents relationship between two entities
+- consists of:
+Nodes
+Edges
+Directed Edges
+
+What is a Knowledge Graph:
+- rich semantic relationship between entities
+- multiple types of relationship
+- domain-specific for modelling
+- adds meaning to nodes and Edges
+
+real world examples
+- route planning
+- recommendation systems
+- social network analysis
+
+types of Graph
+- undirected Graph
+- directed Graph
+- weighted Graph
+
+
+Adjacency list is better than an Adjacency matrix
+- less memory is used instead of buidling an 2d array
+- NetworkX uses Adjacency list
+- it is an in-memory representation 
+- RDF - resource description framework (subject predicate object)
+- neo4j is a graph database
